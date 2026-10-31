@@ -1,0 +1,19 @@
+[ {
+  "id" : "P102",
+  "name" : "Mini Blender Pro",
+  "basePrice" : 220.0,
+  "shippingCostInKg" : 25.0,
+  "weightInKg" : 1.2
+}, {
+  "id" : "P201",
+  "name" : "Mastering Java E-Book",
+  "basePrice" : 99.0,
+  "downloadUrl" : "https://abdo.dev/downloads/java-guide.pdf",
+  "digitalVatRate" : 0.05
+}, {
+  "id" : "P101",
+  "name" : "Smartwatch Ultra",
+  "basePrice" : 450.0,
+  "shippingCostInKg" : 30.0,
+  "weightInKg" : 0.35
+} ]

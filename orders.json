@@ -1,0 +1,42 @@
+[ {
+  "id" : {
+    "value" : "53603E2B"
+  },
+  "customerEmail" : "client.vip@gmail.com",
+  "items" : [ {
+    "type" : "PHYSICAL",
+    "id" : "P101",
+    "name" : "Smartwatch Ultra",
+    "basePrice" : 450.0,
+    "shippingCostInKg" : 30.0,
+    "weightInKg" : 0.35
+  }, {
+    "type" : "DIGITAL",
+    "id" : "P201",
+    "name" : "Mastering Java E-Book",
+    "basePrice" : 99.0,
+    "downloadUrl" : "https://abdo.dev/downloads/java-guide.pdf",
+    "digitalVatRate" : 0.05
+  } ],
+  "status" : "PAID",
+  "discountAmount" : 56.44500000000001,
+  "subTotal" : 564.45,
+  "totalPrice" : 508.00500000000005
+}, {
+  "id" : {
+    "value" : "CE7292A7"
+  },
+  "customerEmail" : "customer.casa@yahoo.com",
+  "items" : [ {
+    "type" : "PHYSICAL",
+    "id" : "P102",
+    "name" : "Mini Blender Pro",
+    "basePrice" : 220.0,
+    "shippingCostInKg" : 25.0,
+    "weightInKg" : 1.2
+  } ],
+  "status" : "PAID",
+  "discountAmount" : 0.0,
+  "subTotal" : 250.0,
+  "totalPrice" : 250.0
+} ]
